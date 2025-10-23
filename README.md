@@ -40,3 +40,4 @@
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
+![1 2 edm](https://github.com/user-attachments/assets/b25c6a03-a3f0-43e0-843c-0d752cbafd13)
